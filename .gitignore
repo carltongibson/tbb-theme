@@ -19,3 +19,7 @@ node_modules
 projectFilesBackup
 
 .DS_Store
+
+# Need some way to include a theme config file: https://ghost.org/forum/themes/967-theme-options/
+# Until then:
+partials/google_analytics.hbs
